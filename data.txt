@@ -1,0 +1,8 @@
+{
+    "guilds": {
+        "whitelist": [1355208728328278117],
+        "isworked": false,
+	"isworked1": true,
+	"bannedguilds": []
+    }	
+}
